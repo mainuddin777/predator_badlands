@@ -1,0 +1,53 @@
+======================================================================
+PREDATOR: BADLANDS - STATISTICAL EVALUATION REPORT
+======================================================================
+
+Number of Simulations: 20
+Timestamp: 20251223_002438
+
+----------------------------------------------------------------------
+SURVIVAL METRICS
+----------------------------------------------------------------------
+Turns Survived (Mean ± Std):  294.05 ± 14.77
+Turns Survived (Median):      300.00
+Turns Survived (Range):       246 - 300
+95% Confidence Interval:      (287.58, 300.52)
+
+----------------------------------------------------------------------
+HONOUR METRICS
+----------------------------------------------------------------------
+Final Honour (Mean ± Std):    82.25 ± 45.40
+Final Honour (Median):        62.50
+Final Honour (Range):         25 - 205
+95% Confidence Interval:      (62.35, 102.15)
+
+----------------------------------------------------------------------
+SUCCESS RATES
+----------------------------------------------------------------------
+Adversary Defeat Rate:        15.0%
+Dek Survival Rate:            100.0%
+Average Trophies Collected:   2.85
+
+----------------------------------------------------------------------
+INDIVIDUAL RUN DETAILS
+----------------------------------------------------------------------
+Run  1 | VICTORY  | Turns: 246 | Honour: 205 | Rank: Unblooded
+Run  2 | VICTORY  | Turns: 272 | Honour: 150 | Rank: Unblooded
+Run  3 | ONGOING  | Turns: 300 | Honour:  25 | Rank: Unblooded
+Run  4 | ONGOING  | Turns: 300 | Honour:  45 | Rank: Unblooded
+Run  5 | ONGOING  | Turns: 300 | Honour: 130 | Rank: Unblooded
+Run  6 | ONGOING  | Turns: 300 | Honour:  55 | Rank: Unblooded
+Run  7 | ONGOING  | Turns: 300 | Honour:  60 | Rank: Unblooded
+Run  8 | ONGOING  | Turns: 300 | Honour:  95 | Rank: Unblooded
+Run  9 | ONGOING  | Turns: 300 | Honour:  50 | Rank: Unblooded
+Run 10 | ONGOING  | Turns: 300 | Honour:  45 | Rank: Unblooded
+Run 11 | ONGOING  | Turns: 300 | Honour:  65 | Rank: Unblooded
+Run 12 | ONGOING  | Turns: 300 | Honour:  85 | Rank: Unblooded
+Run 13 | ONGOING  | Turns: 300 | Honour:  55 | Rank: Unblooded
+Run 14 | VICTORY  | Turns: 263 | Honour: 165 | Rank: Unblooded
+Run 15 | ONGOING  | Turns: 300 | Honour: 100 | Rank: Unblooded
+Run 16 | ONGOING  | Turns: 300 | Honour:  55 | Rank: Unblooded
+Run 17 | ONGOING  | Turns: 300 | Honour:  50 | Rank: Unblooded
+Run 18 | ONGOING  | Turns: 300 | Honour:  75 | Rank: Unblooded
+Run 19 | ONGOING  | Turns: 300 | Honour:  55 | Rank: Unblooded
+Run 20 | ONGOING  | Turns: 300 | Honour:  80 | Rank: Unblooded
